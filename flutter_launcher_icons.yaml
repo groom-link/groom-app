@@ -1,0 +1,18 @@
+flutter_launcher_icons:
+  android: "launcher_icon"
+  adaptive_icon_background: "#AE71FF"
+  adaptive_icon_foreground: "assets/groom_logo_square_light.png"
+  adaptive_icon_monochrome: "assets/groom_logo_square_dark.png"
+  ios: true
+  image_path_ios_dark_transparent: "assets/groom_logo_square_dark.png"
+  image_path_ios_tinted_grayscale: "assets/groom_logo_square_light.png"
+  image_path_ios: "assets/groom_logo_square_light.png"
+  background_color_ios: "#AE71FF"
+  image_path: "assets/groom_app_icon_light.png"
+  remove_alpha_ios: true
+  min_sdk_android: 21 # android min sdk min:16, default 21
+  windows:
+    generate: true
+    icon_size: 256 # min:48, max:256, default: 48
+  macos:
+    generate: true
