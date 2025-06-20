@@ -7,6 +7,8 @@ class ColorSet {
   static const _Main main = _Main();
   static const _ETC etc = _ETC();
   static const _Todo todo = _Todo();
+  static const Color kakaoBrandColor = Color(0xFFFEE500);
+  static const Color appleBrandColor = Color(0xFF000000);
 }
 
 class _ETC {
