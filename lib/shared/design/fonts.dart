@@ -14,7 +14,7 @@ class _Body {
   final TextStyle regular = const TextStyle(
     fontSize: 16,
     decoration: TextDecoration.none,
-    fontFamily: 'Pretendard-Regular',
+    fontFamily: 'Pretendard',
     fontStyle: FontStyle.normal,
     fontWeight: FontWeight.w400,
     height: 24 / 16,
@@ -24,7 +24,7 @@ class _Body {
   final TextStyle semibold = const TextStyle(
     fontSize: 16,
     decoration: TextDecoration.none,
-    fontFamily: 'Pretendard-SemiBold',
+    fontFamily: 'Pretendard',
     fontStyle: FontStyle.normal,
     fontWeight: FontWeight.w600,
     height: 24 / 16,
@@ -34,7 +34,7 @@ class _Body {
   final TextStyle bold = const TextStyle(
     fontSize: 16,
     decoration: TextDecoration.none,
-    fontFamily: 'Pretendard-Bold',
+    fontFamily: 'Pretendard',
     fontStyle: FontStyle.normal,
     fontWeight: FontWeight.w700,
     height: 24 / 16,
@@ -48,7 +48,7 @@ class _Title {
   final TextStyle s18 = const TextStyle(
     fontSize: 18,
     decoration: TextDecoration.none,
-    fontFamily: 'Pretendard-Medium',
+    fontFamily: 'Pretendard',
     fontStyle: FontStyle.normal,
     fontWeight: FontWeight.w500,
     height: 27 / 18,
@@ -58,7 +58,7 @@ class _Title {
   final TextStyle s20 = const TextStyle(
     fontSize: 20,
     decoration: TextDecoration.none,
-    fontFamily: 'Pretendard-Medium',
+    fontFamily: 'Pretendard',
     fontStyle: FontStyle.normal,
     fontWeight: FontWeight.w500,
     height: 30 / 20,
@@ -72,7 +72,7 @@ class _HeadLine {
   final TextStyle s20 = const TextStyle(
     fontSize: 20,
     decoration: TextDecoration.none,
-    fontFamily: 'Pretendard-SemiBold',
+    fontFamily: 'Pretendard',
     fontStyle: FontStyle.normal,
     fontWeight: FontWeight.w600,
     height: 30 / 20,
@@ -82,7 +82,7 @@ class _HeadLine {
   final TextStyle s24 = const TextStyle(
     fontSize: 24,
     decoration: TextDecoration.none,
-    fontFamily: 'Pretendard-SemiBold',
+    fontFamily: 'Pretendard',
     fontStyle: FontStyle.normal,
     fontWeight: FontWeight.w600,
     height: 36 / 24,
@@ -96,7 +96,7 @@ class _Caption {
   final TextStyle s10 = const TextStyle(
     fontSize: 10,
     decoration: TextDecoration.none,
-    fontFamily: 'Pretendard-Medium',
+    fontFamily: 'Pretendard',
     fontStyle: FontStyle.normal,
     fontWeight: FontWeight.w500,
     height: 15 / 10,
@@ -106,7 +106,7 @@ class _Caption {
   final TextStyle s12 = const TextStyle(
     fontSize: 12,
     decoration: TextDecoration.none,
-    fontFamily: 'Pretendard-Medium',
+    fontFamily: 'Pretendard',
     fontStyle: FontStyle.normal,
     fontWeight: FontWeight.w500,
     height: 18 / 12,
