@@ -15,7 +15,7 @@ class KakaoLoginButton extends StatelessWidget {
       foregroundColor: ColorSet.grayScale.gray.n6,
       child: ButtonInnerLayout(
         leading: Row(children: [KakaoLogo(), SizedBox(width: 12)]),
-        middle: Expanded(child: Center(child: Text("카카오로 시작하기"))),
+        middle: Center(child: Text("카카오로 시작하기")),
       ),
     );
   }
