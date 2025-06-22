@@ -16,7 +16,7 @@ class ButtonInnerLayout extends StatelessWidget {
     return Row(
       children: [
         leading ?? SizedBox.shrink(),
-        Expanded(child: Center(child: middle)),
+        Expanded(child: middle),
         trailing ?? SizedBox.shrink(),
       ],
     );

@@ -37,8 +37,12 @@ dependencies:
   # native
   flutter_native_splash: ^2.4.6
   flutter_launcher_icons: ^0.14.4
-  kakao_flutter_sdk: ^1.9.7+3
+  kakao_flutter_sdk_user: ^1.9.5 # 카카오 로그인 API 패키지
   easy_localization: ^3.0.7+1
+  flutter_config: ^2.0.2
+  freezed: ^3.0.6
+  kakao_flutter_sdk_common: ^1.9.7+3
+  dio: ^5.8.0+1
 dev_dependencies:
   flutter_test:
     sdk: flutter

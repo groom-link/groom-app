@@ -15,7 +15,7 @@ class AppleLoginButton extends StatelessWidget {
       foregroundColor: ColorSet.grayScale.white,
       child: ButtonInnerLayout(
         leading: Row(children: [AppleLogo(), SizedBox(width: 12)]),
-        middle: Expanded(child: Center(child: Text("Apple로 로그인"))),
+        middle: Center(child: Text("Apple로 로그인")),
       ),
     );
   }
